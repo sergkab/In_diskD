@@ -111,4 +111,8 @@ html, body{
     display: block;
 }
 
+.btn_snova:hover{
+    color: rgb(204, 118, 118);
+}
+
 
